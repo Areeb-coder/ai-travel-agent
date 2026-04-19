@@ -18,14 +18,25 @@ This architecture makes the application easy to develop locally, straightforward
 
 > **Live Demo:** _[Add your deployed frontend URL here — e.g., https://ai-travel-agent.vercel.app]_
 
-### 🏠 Landing Page — Trip Input
-![Home Screen](docs/screenshots/home.png)
+### 🏠 Landing Page
+The hero screen with the "The World, Perfectly Curated" tagline and a single CTA to start planning.
 
-### 📋 Itinerary Results — Day-by-Day Breakdown
-![Itinerary View](docs/screenshots/itinerary.png)
+![Landing Page](docs/screenshots/1_home.png)
 
-### 💬 Refinement Flow — Iterate on Your Plan
-![Refinement Flow](docs/screenshots/refine.png)
+### 📋 Day-by-Day Itinerary Plan
+AI-generated itinerary shown alongside the input form. Each day has a themed title with bullet-point activities.
+
+![Itinerary Plan](docs/screenshots/2_itinerary_plan.png)
+
+### 🗺️ Trip Overview — Key Places & Booking Links
+Destination summary card with duration, estimated budget, and a grid of key places with OSM/Google Maps deep links and a ticket discovery panel.
+
+![Trip Overview](docs/screenshots/3_trip_overview.png)
+
+### 💰 Places & Budget Breakdown
+Expanded key places list with category tags alongside a per-person daily cost breakdown (hotel, food, transport, activities).
+
+![Places and Budget](docs/screenshots/4_places_budget.png)
 
 ---
 
