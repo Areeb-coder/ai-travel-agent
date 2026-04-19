@@ -21,22 +21,22 @@ This architecture makes the application easy to develop locally, straightforward
 ### 🏠 Landing Page
 The hero screen with the "The World, Perfectly Curated" tagline and a single CTA to start planning.
 
-![Landing Page](docs/screenshots/1_home.png)
+![Landing Page](docs/screenshots/ChatGPT%20Image%20Apr%2019%2C%202026%2C%2007_50_15%20PM.png)
 
 ### 📋 Day-by-Day Itinerary Plan
 AI-generated itinerary shown alongside the input form. Each day has a themed title with bullet-point activities.
 
-![Itinerary Plan](docs/screenshots/2_itinerary_plan.png)
+![Itinerary Plan](docs/screenshots/ChatGPT%20Image%20Apr%2019%2C%202026%2C%2007_51_21%20PM.png)
 
 ### 🗺️ Trip Overview — Key Places & Booking Links
 Destination summary card with duration, estimated budget, and a grid of key places with OSM/Google Maps deep links and a ticket discovery panel.
 
-![Trip Overview](docs/screenshots/3_trip_overview.png)
+![Trip Overview](docs/screenshots/ChatGPT%20Image%20Apr%2019%2C%202026%2C%2007_50_01%20PM.png)
 
 ### 💰 Places & Budget Breakdown
 Expanded key places list with category tags alongside a per-person daily cost breakdown (hotel, food, transport, activities).
 
-![Places and Budget](docs/screenshots/4_places_budget.png)
+![Places and Budget](docs/screenshots/ChatGPT%20Image%20Apr%2019%2C%202026%2C%2007_50_05%20PM.png)
 
 ---
 
@@ -306,15 +306,3 @@ The following improvements are planned or under consideration:
 - [ ] **Admin analytics dashboard** — Track usage patterns and popular destinations
 - [ ] **Real-time travel alerts** — Surface advisories, visa requirements, and seasonal warnings
 - [ ] **Multi-city trip planning** — Support complex itineraries spanning multiple destinations
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
-
-## Acknowledgements
-
-This project draws inspiration from the broader open-source ecosystem around LLM-powered applications, including the [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) collection. The use of OpenRouter as a unified LLM gateway was motivated by the need to make AI applications more accessible — removing the barrier of local model infrastructure entirely.
