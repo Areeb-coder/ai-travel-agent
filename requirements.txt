@@ -1,0 +1,13 @@
+streamlit 
+agno>=2.2.10
+openai
+google-search-results
+icalendar
+fastapi
+uvicorn
+python-dotenv
+beautifulsoup4
+selenium
+webdriver-manager
+requests
+pydantic
