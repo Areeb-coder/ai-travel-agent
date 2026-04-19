@@ -309,18 +309,6 @@ The following improvements are planned or under consideration:
 
 ---
 
-## Contributing
-
-Contributions are welcome. If you find a bug, have a feature request, or want to improve the codebase:
-
-1. **Open an issue** to discuss the change before starting work
-2. **Fork the repository** and create a feature branch
-3. **Submit a pull request** with a clear description of what was changed and why
-
-Please keep pull requests focused. Large, multi-concern PRs are harder to review and slower to merge.
-
----
-
 ## License
 
 This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
