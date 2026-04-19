@@ -18,13 +18,14 @@ This architecture makes the application easy to develop locally, straightforward
 
 > **Live Demo:** _[Add your deployed frontend URL here — e.g., https://ai-travel-agent.vercel.app]_
 
-| Screenshot | Description |
-|---|---|
-| ![Home Screen](docs/screenshots/home.png) | Landing page with trip input form |
-| ![Itinerary View](docs/screenshots/itinerary.png) | Generated itinerary with day-by-day breakdown |
-| ![Refinement Flow](docs/screenshots/refine.png) | User refinement and feedback interface |
+### 🏠 Landing Page — Trip Input
+![Home Screen](docs/screenshots/home.png)
 
-> 📌 **Architecture Diagram:** `docs/architecture.png` _(add diagram here)_
+### 📋 Itinerary Results — Day-by-Day Breakdown
+![Itinerary View](docs/screenshots/itinerary.png)
+
+### 💬 Refinement Flow — Iterate on Your Plan
+![Refinement Flow](docs/screenshots/refine.png)
 
 ---
 
